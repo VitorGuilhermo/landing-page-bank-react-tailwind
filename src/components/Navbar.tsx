@@ -1,8 +1,6 @@
 import { useState } from 'react'
 
-import logo from '../assets/logo.svg'
-import close from '../assets/close.svg'
-import menu from '../assets/menu.svg'
+import { logo, close, menu } from '../assets'
 
 interface NavLinkData {
     id: string
