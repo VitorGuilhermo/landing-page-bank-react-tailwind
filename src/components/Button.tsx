@@ -1,7 +1,7 @@
 import React from 'react'
 
 interface ButtonProps {
-    styles: string
+    styles?: string
 }
 
 export function Button({ styles }: ButtonProps) {
