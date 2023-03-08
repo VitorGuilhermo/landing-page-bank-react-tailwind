@@ -1,5 +1,3 @@
-import React from 'react'
-
 import styles from '../styles/styles'
 
 import { discount, robot } from '../assets'
